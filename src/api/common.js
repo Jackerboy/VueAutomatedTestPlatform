@@ -1,8 +1,6 @@
 import axios from 'axios'
 axios.defaults.withCredentials=true;
 
-// Raydata测试环境
-// const host = "http://10.10.10.137:8081/"
 
 //测试环境
 const host = "http://10.10.12.92:8000/"
