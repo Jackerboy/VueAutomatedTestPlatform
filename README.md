@@ -8,6 +8,7 @@
     然后再运行 npm install
 
 #项目页面
+![img13.png](img/img13.png)
 #首页
 ![img.png](img/img11.png)
 
